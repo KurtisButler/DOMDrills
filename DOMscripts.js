@@ -40,32 +40,32 @@ document.addEventListener("DOMContentLoaded", function () {
   h6.className = "h6";
 
   h1.addEventListener("click", function () {
-    let randomColor = setRandomColor();
+    let myColors = setRandomColor();
     h1.style.color = myColors;
   });
 
   h2.addEventListener("click", function () {
-    let randomColor = setRandomColor();
+    let myColors = setRandomColor();
     h2.style.color = myColors;
   });
 
   h3.addEventListener("click", function () {
-    let randomColor = setRandomColor();
+    let myColors = setRandomColor();
     h3.style.color = myColors;
   });
 
   h4.addEventListener("click", function () {
-    let randomColor = setRandomColor();
+    let myColors = setRandomColor();
     h4.style.color = myColors;
   });
 
   h5.addEventListener("click", function () {
-    let randomColor = setRandomColor();
+    let myColors = setRandomColor();
     h5.style.color = myColors;
   });
 
   h6.addEventListener("click", function () {
-    let randomColor = setRandomColor();
+    let myColors = setRandomColor();
     h6.style.color = myColors;
   });
 
